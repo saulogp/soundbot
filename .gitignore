@@ -1,0 +1,184 @@
+# Compiled source code
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.app
+*.dmg
+*.pkg
+*.so
+
+# Folders
+bin/
+obj/
+sounds/*
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# IDE files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.cache
+.vscode/
+.vscode-test/
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+.scaffolding
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# Web development
+.vscode/
+node_modules/
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# Entity Framework
+*.edmx.diagram
+*.edmx.sql
+
+# Ignore stylecop ruleset files
+.stylecop
+
+# DotNet CLI configurations
+.vs/
+*.dotCover
+
+# Logs from IDEs and other tools
+*.log
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.cake
+
+# Packaging
+*.nupkg
+*.snupkg
+.nuget/
+
+# Backup & report files from converting an old project file to a newer
+# format using Visual Studio
+*.OldVSTemplate
+*.TestSettings
+*.vspscc
+*.vspcc
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# StyleCop
+StyleCopReport.xml
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Visual Studio code snippets cache
+*.vscode/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode-test/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Coverage Results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Transpiled files
+dist/
+node_modules/
+
+# .NET Core project files
+project.lock.json
+project.fragment.lock.json
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Others
+*.ipch
+*.tlog
+*.lastbuildstate
+
+# IDE configurations
+.idea/
+*.vs/
+.vscode/
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+.scaffolding
+
+# Web development
+node_modules/
+bower_components/
+
+# Coverlet
+coverage.*.xml
+coverage.*.json
+coverage.*.info
+
+# cake
+*.cake
+*.cake.*
